@@ -314,7 +314,7 @@ python-versions = ">=3.5"
 
 [[package]]
 name = "solana"
-version = "0.21.0"
+version = "0.25.1"
 description = "Solana Python API"
 category = "main"
 optional = false
